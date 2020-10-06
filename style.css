@@ -33,7 +33,12 @@ a{
     text-decoration: none;
     color: gray;
     
+    
+    
 }
+a:hover {
+    background-color: yellow;
+  }
 
 
 nav{
